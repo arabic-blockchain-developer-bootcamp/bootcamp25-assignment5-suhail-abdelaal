@@ -48,7 +48,7 @@ contract Assignment5 {
     // Function to add a user
     // This function should:
     // - Be public
-    // - Take two parameters: `id` (uint) and `name` (string) and userAddress (address)
+    // - Take three parameters: `id` (uint) and `name` (string) and userAddress (address)
         // Hint: Define string as `string memory`
         // The memory keyword will be explained later
     // - Add a new user to the `users` array
